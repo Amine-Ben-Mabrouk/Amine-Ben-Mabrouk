@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Amine Ben Mabrouk
 
-🛡️ **Linux Systems Engineer | Cybersecurity Expert | Infrastructure Automation Specialist**  
+🛡️ **Linux Systems Engineer | Hardening Expert | Infrastructure Architect**  
 🔧 Passionate about open source, performance tuning, and system hardening.  
 🕶️ Founder of the **Shadow Committer** initiative: building a legacy in the Linux ecosystem through real contributions.
 
